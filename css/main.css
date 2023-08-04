@@ -45,8 +45,9 @@ color: #808080;
 
 ul#menu{
 position: absolute;
-top: 50px;
-right: 50px;
+top: 10px;
+left: 50%;
+margin-left: -150px;
 z-index: 1;
 }
 
