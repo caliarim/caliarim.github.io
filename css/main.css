@@ -17,7 +17,7 @@ h1{
 margin: 0px;
 font-size: 40px;
 line-height: 40px;
-color: #000000;
+color: #fff;
 font-family: serif;
 text-align: center;
 }
@@ -34,7 +34,7 @@ font-size: 16px;
 
 ul#menu li a{
 text-decoration: none;
-color: #808080;
+color: #000000;
 }
 
 
@@ -42,10 +42,10 @@ ul#menu{
 position: absolute;
 top: 10px;
 left: 50%;
-margin-left: -170px;
+margin-left: -190px;
 z-index: 1;
 }
 
 ul#menu li.active a{
-color: #000000;
+color: #fff;
 }
